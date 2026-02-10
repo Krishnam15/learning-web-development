@@ -1,41 +1,26 @@
-# ReactJS Weather App
-
-Welcome to the ReactJS Weather App project! This application was built as part of a tutorial on my YouTube channel, [Code Explained](https://www.youtube.com/@CodeExplained). In this project, we will create a weather app using ReactJS and the Meteosource Weather API.
-
-Check out the full tutorial on YouTube: [ReactJS Weather App Tutorial](https://youtu.be/YxTkX_DDSGs).
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
+# React Weather App
 
 ## Overview
-
-This project is a simple weather application built with ReactJS. It fetches weather data from the Meteosource Weather API and displays it in a user-friendly interface. This project aims to demonstrate how to integrate third-party APIs with React and how to build a complete application from scratch.
+A simple weather application built using ReactJS that fetches and displays real-time weather information for a given location.  
+This project was created as part of my React learning journey, with a focus on API integration, state management, and clean UI development.
 
 ## Features
+- Search weather by city/location
+- Displays current temperature and weather conditions
+- Responsive user interface
+- Error handling for invalid input and API failures
 
-- Fetch and display current weather data for any location
-- User-friendly interface with styled-components
-- Responsive design
-- Error handling for API requests
+## Tech Stack
+- ReactJS
+- JavaScript (ES6+)
+- Axios
+- Meteosource Weather API
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
-
 - Node.js (v14 or higher)
-- npm (v6 or higher) or yarn
+- npm or yarn
 
 ### Installation
 
@@ -79,20 +64,14 @@ This project uses the following dependencies:
 
 This project uses the Meteosource Weather API to fetch weather data. You can find more information and sign up for an API key at the [Meteosource Weather API page](https://rapidapi.com/MeteosourceWeather/api/ai-weather-by-meteosource).
 
-## Contributing
+## Learning Outcomes
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+1. Integrating third-party APIs in React
+2. Handling async data with Axios
+3. Component-based UI design
+4. Environment variable management in React
 
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/my-new-feature`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/my-new-feature`.
-5. Submit a pull request.
+## Credits
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Happy coding! If you have any questions, feel free to reach out or leave a comment on the [YouTube tutorial](https://youtu.be/YxTkX_DDSGs).
+Inspired by a tutorial from the Code Explained YouTube channel.
+This implementation was rebuilt and customized for learning purposes.
