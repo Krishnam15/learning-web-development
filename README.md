@@ -21,6 +21,11 @@ An interactive Tic Tac Toe game built using vanilla JavaScript.
 - Concepts: Game logic, DOM manipulation, state handling
 - Tech: HTML, CSS, JavaScript
 
+### 4. Apni Kaksha
+A static courses platform web page featuring multiple courses with embedded videos and linked PDF learning resources.
+- Concepts: HTML structuring, CSS layout, and content organization.
+- Tech: HTML, CSS.
+
 ## Repository Structure
 - Each project is maintained in its own folder
 - Individual projects may contain their own README with setup or usage details
