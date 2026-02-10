@@ -33,6 +33,4 @@ This project was built to practice core JavaScript concepts such as event handli
 - Writing clean conditional logic
 - Structuring a small frontend project
 
-## Status
-Completed basic version. Can be extended with score tracking or animations.
 
