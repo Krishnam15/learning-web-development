@@ -28,7 +28,7 @@ A static courses platform web page featuring multiple courses with embedded vide
 
 ## Repository Structure
 - Each project is maintained in its own folder
-- Individual projects may contain their own README with setup or usage details
+- Individual projects contain their own README with setup or usage details
 
 ## Purpose
 The goal of this repository is to:
