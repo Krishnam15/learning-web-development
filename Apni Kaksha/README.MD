@@ -1,31 +1,35 @@
-# Apni Kaksha – Web Layout Practice
+# Apni Kaksha – Courses Platform Web Page
 
 ## Overview
-A static web page created to practice HTML and CSS layout techniques by replicating a real-world educational website interface.  
-This project focuses purely on frontend structure and styling, without backend functionality.
+A static web page built to practice frontend development by designing a course platform interface.  
+The page presents multiple courses and includes embedded video content and downloadable PDF resources, simulating the structure of an online learning platform.
 
 ## Features
-- Static webpage layout
-- Clean and structured HTML
-- Custom CSS styling
-- Basic responsive design elements
+- Multi-course layout
+- Embedded video content
+- Linked PDF resources for course materials
+- Clean and structured UI using HTML and CSS
+- Basic responsive layout elements
 
 ## Tech Stack
 - HTML
 - CSS
 
 ## Purpose
-This project was built to:
-- Improve understanding of HTML page structure
-- Practice CSS layout and styling techniques
-- Learn how real-world websites organize content visually
+This project was created to:
+- Practice building real-world webpage layouts
+- Learn how course platforms organize videos and learning resources
+- Improve HTML structuring and CSS styling skills
 
 ## Project Structure
-- `coursewallah.html` – Page structure and content
+- `coursewallah.html` – Main page structure and course content
 - `style.css` – Styling and layout rules
 
 ## Learning Outcomes
-- Writing semantic HTML
-- Applying CSS for layout and spacing
-- Understanding real-world webpage design patterns
+- Designing multi-section webpages
+- Embedding media (videos) in HTML
+- Linking and organizing static resources (PDFs)
+- Applying CSS for layout, spacing, and visual hierarchy
 
+## Status
+Completed as a frontend learning exercise.
