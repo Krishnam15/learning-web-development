@@ -36,5 +36,3 @@ The goal of this repository is to:
 - Build small, focused projects to reinforce concepts
 - Maintain a structured record of my web development learning journey
 
-## Status
-Active learning repository. Projects may be improved or extended over time.
